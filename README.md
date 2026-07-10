@@ -1,38 +1,23 @@
-## Hi there 👋! It's a me! René Merino
+# René Merino
 
-**Senior Software Engineer & Technical Lead**  
-[Website](https://alxmerino.com) | [LinkedIn](https://www.linkedin.com/in/alxmerino) | [Email](mailto:rene@amayamedia.com)
+Senior software engineer — frontend & full-stack. 12+ years building web
+applications and the shared systems teams depend on: component libraries,
+CMS platforms, and production SaaS.
 
----
+**Currently**
 
-## About Me
+- 🃏 Building [Binder Builder](https://binderbuilder.app) - a Pokémon TCG
+  collection tracker with variant-level tracking across 59,000+ cards.
+  Next.js · TypeScript · PostgreSQL · Supabase · Vercel
+- 🛠️ Senior Software Engineer & Technical Lead at [Happy Cog](https://happycog.com)
+- 🤖 AI-assisted development daily — Claude Code with a spec-driven workflow
 
-I’m René Merino, a Senior Software Engineer with over 10 years of experience in web development, specializing in React, Node.js, CraftCMS, and WordPress. I have a passion for delivering scalable solutions and have led projects that improved e-commerce conversions and click-through rates.
+**Stack:** TypeScript · React · Next.js · Vue · Node.js · PHP · CraftCMS · WordPress · PostgreSQL · GraphQL · Algolia · Stripe · AWS · Docker
 
----
-<!--
-## Key Projects
+[alxmerino.com](https://alxmerino.com) ·
+[LinkedIn](https://www.linkedin.com/in/alxmerino) ·
+renemerino4@gmail.com
 
-- **Algolia Implementation**  
-  Led the integration, resulting in a 20% improvement in CTR and a 15% increase in conversions.
-
-- **Homepage Overhaul**  
-  Re-architected and optimized a client’s homepage for better maintainability and performance.
-
----
--->
-## Skills
-
-- **Languages:** TypeScript, TypeScript, PHP
-- **Frameworks:** Next.js, React, Node.js
-- **Tools:** Algolia, Stripe, GitHub Actions, Jenkins, AWS
-
----
-
-## Contact
-
-- **Website:** [alxmerino.com](https://alxmerino.com)
-- **Email:** [rene@amayamedia.com](mailto:rene@amayamedia.com)
 
 
 <!--
